@@ -39,10 +39,37 @@ The computer supports a tailored set of 13 instructions to perform arithmetic, l
 ## 🚀 Results & Visuals
 The design has been fully verified through hierarchical simulation. You can find detailed screenshots of the architecture in this repository:
 
-- **[Main System Architecture](./MAIN.png):** The complete top-level view of the computer.
-- **[Instruction Decoder](./IR_DEC.png):** The logic responsible for decoding operation codes.
-- **[CPU Datapath](./A3_CPU.pdf):** Detailed PDF showing the CPU internal structure.
-- **[Simulation Test Run](./TEST_RUN.png):** Proof of functional program execution.
+### Core Components
+
+#### Main System Architecture
+![Main System Architecture](./MAIN.png)
+
+#### Instruction Decoder
+![Instruction Decoder](./IR_DEC.png)
+
+#### CPU Datapath
+- **[CPU Datapath (PDF)](./A3_CPU.pdf):** Detailed PDF showing the CPU internal structure.
+
+### Simulation and Test Runs
+
+#### Simulation Test Run
+![Simulation Test Run](./TEST_RUN.png)
+
+### Additional Screenshots
+
+![Screenshot 2025-08-26 230248](./Screenshot%202025-08-26%20230248.png)
+![Screenshot 2025-08-26 230305](./Screenshot%202025-08-26%20230305.png)
+![Screenshot 2025-08-27 002231](./Screenshot%202025-08-27%20002231.png)
+![Screenshot 2025-08-27 002247](./Screenshot%202025-08-27%20002247.png)
+![Screenshot 2025-08-27 002439](./Screenshot%202025-08-27%20002439.png)
+![Screenshot 2025-08-27 002454](./Screenshot%202025-08-27%20002454.png)
+![Screenshot 2026-04-07 195042](./Screenshot%202026-04-07%20195042.png)
+![Screenshot 2026-04-07 195143](./Screenshot%202026-04-07%20195143.png)
+![Screenshot 2026-04-07 195245](./Screenshot%202026-04-07%20195245.png)
+![Screenshot 2026-04-07 195326](./Screenshot%202026-04-07%20195326.png)
+![Screenshot 2026-04-07 195431](./Screenshot%202026-04-07%20195431.png)
+![Screenshot 2026-04-08 200816](./Screenshot%202026-04-08%20200816.png)
+![Screenshot 2026-04-08 200838](./Screenshot%202026-04-08%20200838.png)
 
 ---
 
