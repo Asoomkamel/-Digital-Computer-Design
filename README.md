@@ -90,7 +90,7 @@ This project was developed by a dedicated team at **Sana'a University, Faculty o
 
 **Supervised by:**
 - Prof. Abdul-Raqeeb Abdu As'ad
-- Eng. Iman Bashar
+- Eng. Eman Beshr
 
 ---
 
